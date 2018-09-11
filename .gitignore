@@ -1,1 +1,4 @@
 # .gitignore 
+
+# ignore vscode artifacts
+.vscode/*.sql
