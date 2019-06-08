@@ -9,7 +9,7 @@ The version fetched with apt-get is not up to date.  Some of the tips in the [tm
 sudo apt-get install -y software-properties-common
 sudo add-apt-repository -y ppa:pi-rho/dev
 sudo apt-get update
-sudo apt-get install -y python-software-properties software-properties-common tmux-next
+sudo apt-get install -y software-properties-common tmux-next
 
 echo "alias tmux=tmux-next" >> ~/.bashrc
 
